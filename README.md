@@ -6,3 +6,4 @@ here in 3d
 and my schematics
 # LORA-BOARD
 LORA BOARD
+dont mind the namesof the kicad files they are the lora board
