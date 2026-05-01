@@ -7,3 +7,14 @@ and my schematics
 # LORA-BOARD
 LORA BOARD
 dont mind the namesof the kicad files they are the lora board
++------------------------+----------------+----------+------------------+-------------+
+| Name                   | Purpose        | Quantity | Total Cost (USD) | Distributor |
++------------------------+----------------+----------+------------------+-------------+
+| ESP32-S3-WROOM-1-N8    | MCU            | 1        | $4.77            | LCSC        |
+| SX1262IMLTRT           | LoRa Transceiver| 1       | $3.23            | LCSC        |
+| U.FL Connector         | RF Connector   | 1        | $0.55            | LCSC        |
+| Resistor 10k 0402      | Resistor       | 2        | $0.08            | LCSC        |
+| Inductor 1.8nH 0402    | RF Matching    | 1        | $0.95            | LCSC        |
+| Inductor 15uH 0603     | Inductor       | 1        | $0.54            | LCSC        |
+| Cap 3.9pF 0402 NP0     | RF Matching    | 1        | $0.25            | LCSC        |
++------------------------+----------------+----------+------------------+-------------+
